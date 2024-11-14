@@ -1,0 +1,4 @@
+git clone https://github.com/Mouad-git/Moroccandream.git
+cd Moroccandream
+git add MOROCCAN-DREAM
+git commit -m "Message de validation"
